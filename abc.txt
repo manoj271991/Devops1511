@@ -1,1 +1,2 @@
 Its the First line in the training
+I am editing the text for the diff
