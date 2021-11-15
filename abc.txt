@@ -2,4 +2,8 @@ Its the First line in the training
 I am editing the text for the diff
 I am editing in feat1 for the first time
 I am adding secind line to the feast1
+
 I am third line to add to the feat1
+
+First line adding from Github into feat1
+
